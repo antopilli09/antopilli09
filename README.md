@@ -10,9 +10,9 @@
 🎨 CSS3
 ⚡ JavaScript
 🔥 Firebase
-🗄️ SQL
 🔧 Git & GitHub
-Docker
+🗄️ SQL
+e Docker
 
 
 ## Contact

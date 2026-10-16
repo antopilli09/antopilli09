@@ -12,6 +12,7 @@
 🔥 Firebase
 🗄️ SQL
 🔧 Git & GitHub
+Docker
 
 
 ## Contact

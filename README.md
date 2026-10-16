@@ -22,4 +22,4 @@ e Docker
 🔗 LinkedIn:
 https://www.linkedin.com/in/antonino-pillirone-623726373
 
-📧 antpilli09@gmail.com
+📧 antoninopillirone09@gmail.com
